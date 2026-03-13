@@ -1,0 +1,29 @@
+[
+  {
+    "id": "health_potion",
+    "name": "Health Potion",
+    "symbol": "!",
+    "type": "consumable",
+    "effect": "heal",
+    "value": 15,
+    "description": "Restores 15 HP."
+  },
+  {
+    "id": "iron_sword",
+    "name": "Iron Sword",
+    "symbol": "/",
+    "type": "weapon",
+    "effect": "attack_bonus",
+    "value": 3,
+    "description": "A sturdy iron sword (+3 Attack)."
+  },
+  {
+    "id": "leather_armor",
+    "name": "Leather Armor",
+    "symbol": "[",
+    "type": "armor",
+    "effect": "defense_bonus",
+    "value": 2,
+    "description": "Basic protective gear (+2 Defense)."
+  }
+]
